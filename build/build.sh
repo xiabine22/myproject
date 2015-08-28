@@ -10,4 +10,3 @@ cd $project_path/src/myproject
 go build -a -o $project_path/bin/myproject
 cp -r $project_path/src/myproject/conf $project_path/bin
 cp -r $project_path/src/myproject/views $project_path/bin
-
